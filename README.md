@@ -1,0 +1,1 @@
+Olá, esse é o meu repositório para exercícios da trybe, aqui colocarei todas as atividades dos módulos que irei estudar. O primeiro módulo é sobre Fundamentos do Desenvolvimento Web, o segundo é Desenvolvimento Front-end, o terceiro é Desenvolvimento Back-end e o quarto Ciência da Computação. 
