@@ -1,0 +1,29 @@
+  
+        h1 {
+            fonte-size: 65px;
+            color: orange;
+            font-family: sans-serif;
+            font-style: italic;
+        }
+        #cores-fav {
+            background-color: brown;
+            line-height: 40px
+        }
+        p {
+          font-weight:600;
+          font-size: 3em;
+          text-decoration: underline;
+        }
+        body {
+          font-size: 16px;
+          text-align: center;
+        }
+        #amarelow {
+          background-color: yellow;;
+        } 
+        #vermelhow {
+          background-color: red;
+        }
+        #marrom {
+          background-color: brown;
+        }
